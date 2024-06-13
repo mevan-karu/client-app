@@ -1,0 +1,8 @@
+productServiceEp="<product-api-url>"
+cardServiceEp="<card-api-url>"
+encodedClientPrivateKey="UkVDMgAAAC11gg3NAE7MIKIIHkn0U6Zn3BvMX2vT8Habzkm8xIFyQAIALH26"
+encodedServerPublicKey="VUVDMgAAAC3dyiiiAvxjVMQM+kHqLCzKkEIKmh1FHcktOZwKlLEbMU4Dl8i2"
+securityEnabled=false
+tokenEp="<token-ep>"
+clientId="<client-id>"
+clientSecret="<client-secret>"
